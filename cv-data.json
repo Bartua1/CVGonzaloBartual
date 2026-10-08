@@ -1,0 +1,139 @@
+{
+  "personal": {
+    "name": "Gonzalo Bartual",
+    "title": "Senior AI Engineer",
+    "phone": "+34 693 28 46 02",
+    "email": "gonzalo.bartual.fernandez2@gmail.com",
+    "links": {
+      "linkedin": {
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/gbartual/?locale=es"
+      },
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/Bartua1/"
+      },
+      "portfolio": {
+        "label": "Portfolio personal",
+        "url": "http://bartualfdez.asuscomm.com/dev/bartua1"
+      }
+    },
+    "photo": "profile.jpg"
+  },
+  "perfil": "Ingeniero Informático con Máster en IA con mentalidad 'hands-on'. Especializado en desarrollo con LLMs, bases de datos vectoriales e ingeniería de datos, combino rigor técnico con cercanía al producto, asegurando que cada integración de IA sea sólida, comprensible y realmente adoptada por los usuarios.",
+  "skills": [
+    {
+      "category": "IA Generativa & LLMs",
+      "items": "Sistemas RAG, Agentes de IA, Prompt Engineering, Function Calling, Integración de LLMs (APIs / Locales)."
+    },
+    {
+      "category": "Vector DBs & Despliegue",
+      "items": "Elasticsearch, Qdrant, pgvector, vLLM, Ollama, Scikit-learn, NLP (NLTK, spaCy)."
+    },
+    {
+      "category": "Ingeniería de Datos & Big Data",
+      "items": "PySpark, Apache Kafka, Neo4j (Graph DB), Hadoop, HBase, Azure Data Lake, SQL/NoSQL."
+    },
+    {
+      "category": "Backend & Cloud (Code-First)",
+      "items": "Python (FastAPI, Django, Flask), Microservicios, Docker, APIs REST, Asynchronous Programming, Git, CI/CD."
+    },
+    {
+      "category": "Automatización & Visión",
+      "items": "Visión por Computador (Bots resilientes), Web Scraping distribuido (Playwright, Selenium), ChatOps (Slack API), Integración Pro-Code/Low-Code."
+    }
+  ],
+  "idiomas": [
+    {
+      "language": "Español",
+      "level": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "level": "B2 Cambridge"
+    },
+    {
+      "language": "Sueco",
+      "level": "Básico / A2 (Constancia de +1.600 días en Duolingo)"
+    }
+  ],
+  "experiencia": [
+    {
+      "role": "Senior AI Engineer",
+      "company": "ALTEN ES (Airbus España)",
+      "period": "jun. 2026 - Presente",
+      "description": "Diseñé la arquitectura de una solución RAG de alta precisión para la consulta de especificaciones técnicas de aviación militar en Airbus España. Implementé pipelines de chunking semántico y búsqueda híbrida (vectorial y BM25) sobre clústeres de Elasticsearch, optimizando la relevancia de las respuestas para los equipos de ingeniería. Lideré el desarrollo de pipelines automatizados de datos en Python y analítica avanzada para comités directivos."
+    },
+    {
+      "role": "AI Engineer & Digital Transformation",
+      "company": "Grupo Azvi",
+      "period": "sep. 2025 - May 2026",
+      "description": "Lideré el diseño e implantación de un sistema de IA conversacional basado en RAG y agentes de Copilot con acceso a repositorios documentales corporativos. Desarrollé microservicios e integraciones en Python (FastAPI) y TypeScript con el ecosistema empresarial, reduciendo drásticamente las consultas repetitivas de soporte interno y agilizando el acceso a la información operativa."
+    },
+    {
+      "role": "Backend & Automation Systems Engineer",
+      "company": "Turify",
+      "period": "mar. 2025 - ago. 2025",
+      "description": "Diseñé una infraestructura de automatización backend combinando microservicios Python/Node.js con visión por computador para operar en entornos virtuales restrictivos (Citrix/VDI). Integré modelos de IA para la monitorización automática de procesos y generación inteligente de reportes, implementando una arquitectura ChatOps (Slack API) que facilitó la observabilidad general del sistema."
+    },
+    {
+      "role": "AI & Data Engineer",
+      "company": "FIDETIA",
+      "period": "ago. 2024 - feb. 2025",
+      "description": "Co-diseñé una plataforma de ingeniería de datos y analítica avanzada para el procesamiento masivo de información heterogénea. Desarrollé pipelines de streaming en tiempo real con PySpark y Apache Kafka para la extracción de metadatos y detección de patrones de negocio. Participé en la generación de datasets sintéticos y data augmentation asistida por LLMs para acelerar la validación de modelos analíticos."
+    },
+    {
+      "role": "AI & Big Data Engineer",
+      "company": "FIDETIA",
+      "period": "dic. 2023 - jul. 2024",
+      "description": "Desarrollo de una plataforma integral de análisis de redes sociales y modelado de opinión en grandes volúmenes de datos. Implementé la arquitectura distribuida (Hadoop, Spark, HBase, Neo4j) para la ingesta, clusterización y modelado de grafos de interacción de usuarios. Integré técnicas de NLP y modelos de lenguaje (LLM/RAG) para la detección contextual de tendencias y líderes de opinión."
+    },
+    {
+      "role": "Software Engineer (Backend & Web)",
+      "company": "FIDETIA",
+      "period": "ago. 2022 - nov. 2023",
+      "description": "Desarrollo backend y arquitectura web a medida. Creación de servicios modulares y plugins en PHP/MySQL para la gestión de eventos de alto tráfico y automatización de certificados. Optimización de consultas a bases de datos y reestructuración de la arquitectura para garantizar escalabilidad y reducir los tiempos de respuesta."
+    }
+  ],
+  "educacion": [
+    {
+      "degree": "Master en Inteligencia Artificial",
+      "institution": "Universidad Alfonso X el Sabio",
+      "period": "2025 - 2026",
+      "description": "Graduado con Máster con el objetivo de profundizar en metodologías emergentes, arquitecturas neuronales y la integración de modelos generativos en el entorno empresarial."
+    },
+    {
+      "degree": "Ingeniería Informática - Tecnologías Informáticas",
+      "institution": "Universidad de Sevilla",
+      "period": "2019 - 2024",
+      "description": "Graduado con mención en Computación y calificación de 10/10 en el TFG: 'Análisis del impacto de la corriente de opinión en redes sociales' (NLP y algoritmos de clasificación sobre grandes volúmenes de datos de Twitter).\nExperiencia internacional cursando un año en la VŠB Technical University of Ostrava (República Checa) mediante el programa Erasmus.\nLos dos últimos años compaginé estudios con trabajo a tiempo parcial."
+    }
+  ],
+  "cursos": [
+    {
+      "title": "Taller Minería de Texto",
+      "institution": "Universidad de Sevilla",
+      "year": "2024"
+    },
+    {
+      "title": "Developer Training for Apache Hadoop",
+      "institution": "Cloudera",
+      "year": "2024"
+    },
+    {
+      "title": "RPA Developer Foundation",
+      "institution": "UiPath",
+      "year": "2025"
+    },
+    {
+      "title": "Automation Business Analysis Fundamentals",
+      "institution": "UiPath",
+      "year": "2025"
+    },
+    {
+      "title": "Software Development on SAP HANA",
+      "institution": "SkillUp EdTech",
+      "year": "2025"
+    }
+  ]
+}
